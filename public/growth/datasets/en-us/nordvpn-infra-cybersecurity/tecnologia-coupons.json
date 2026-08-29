@@ -1,0 +1,37 @@
+{
+  "title": "Enterprise Cybersecurity & Cloud Infrastructure Coupons (2026) | SolveGrid",
+  "description": "Compare top-tier enterprise VPNs, cloud server defenses, and Zero Trust architectures with verified partner discounts.",
+  "canonical": "https://solvegrid.com.br/growth/en-us/nordvpn-infra-cybersecurity/tecnologia-coupons",
+  "locale": "en-us",
+  "facet": "nordvpn-infra-cybersecurity",
+  "format": "tecnologia-coupons",
+  "affiliateHosts": [
+    "https://www.tkqlhce.com",
+    "https://www.dpbolvw.net",
+    "https://www.anrdoezrs.net"
+  ],
+  "offers": [
+    {
+      "brand": "NordVPN",
+      "title": "NordVPN Business & Dedicated IP Defense",
+      "description": "Next-generation encryption and dedicated cloud gateways.",
+      "discount": "68% OFF",
+      "price": "3.39",
+      "currency": "USD",
+      "priceFormatted": "$3.39/mo",
+      "url": "https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=nordvpn&site=solvegrid&slot=sg_card_1",
+      "cta": "Get Deal"
+    },
+    {
+      "brand": "Surfshark",
+      "title": "Surfshark CleanWeb Enterprise",
+      "description": "Zero logs policy and malware protection for all team endpoints.",
+      "discount": "80% OFF",
+      "price": "2.49",
+      "currency": "USD",
+      "priceFormatted": "$2.49/mo",
+      "url": "https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=surfshark&site=solvegrid&slot=sg_card_2",
+      "cta": "Explore Offer"
+    }
+  ]
+}
