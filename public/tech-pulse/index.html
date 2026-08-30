@@ -73,13 +73,13 @@
 
   <header>
     <div class="lang-bar">
-      <button class="lang-btn active" onclick="setSolveLang('en', this)">🇺🇸 English</button>
-      <button class="lang-btn" onclick="setSolveLang('pt', this)">🇧🇷 Português</button>
-      <button class="lang-btn" onclick="setSolveLang('es', this)">🇪🇸 Español</button>
-      <button class="lang-btn" onclick="setSolveLang('fr', this)">🇫🇷 Français</button>
-      <button class="lang-btn" onclick="setSolveLang('de', this)">🇩🇪 Deutsch</button>
-      <button class="lang-btn" onclick="setSolveLang('ja', this)">🇯🇵 日本語</button>
-      <button class="lang-btn" onclick="setSolveLang('zh', this)">🇨🇳 中文</button>
+      <button class="lang-btn active" data-lang="en" onclick="setSolveLang('en', this)">🇺🇸 English</button>
+      <button class="lang-btn" data-lang="pt" onclick="setSolveLang('pt', this)">🇧🇷 Português</button>
+      <button class="lang-btn" data-lang="es" onclick="setSolveLang('es', this)">🇪🇸 Español</button>
+      <button class="lang-btn" data-lang="fr" onclick="setSolveLang('fr', this)">🇫🇷 Français</button>
+      <button class="lang-btn" data-lang="de" onclick="setSolveLang('de', this)">🇩🇪 Deutsch</button>
+      <button class="lang-btn" data-lang="ja" onclick="setSolveLang('ja', this)">🇯🇵 日本語</button>
+      <button class="lang-btn" data-lang="zh" onclick="setSolveLang('zh', this)">🇨🇳 中文</button>
     </div>
     <div style="color: #34d399; font-weight: 700; font-size: 0.8rem; text-transform: uppercase;">● Live Daily Intelligence</div>
     <h1 id="solve-title">⚡ SolveGrid TechPulse & AI Radar</h1>
@@ -310,10 +310,8 @@
       const rateFromUSD = FX_RATES_TO_USD[from] || 1.0;
       const rateToUSD = FX_RATES_TO_USD[to] || 1.0;
 
-      // Conversion: (amount * rateFromUSD) / rateToUSD
       const totalInUSD = amount * rateFromUSD;
       const converted = totalInUSD / rateToUSD;
-
       const directRate = rateFromUSD / rateToUSD;
 
       document.getElementById('fx-result').innerText = converted.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 4 }) + ' ' + to;
@@ -327,23 +325,54 @@
       btn.classList.add('active');
     }
 
+    const SOLVE_I18N = {
+      en: {
+        title: '⚡ SolveGrid TechPulse & AI Radar',
+        desc: 'Real-time technology news, 32-currency arbitrage, dev certifications, and enterprise cybersecurity insights.'
+      },
+      pt: {
+        title: '⚡ SolveGrid TechPulse & Radar de IA',
+        desc: 'Notícias de tecnologia em tempo real, arbitragem em 32 moedas e vouchers de certificações.'
+      },
+      es: {
+        title: '⚡ SolveGrid TechPulse y Radar de IA',
+        desc: 'Noticias de tecnología en tiempo real, arbitraje de 32 monedas y cupones de certificación.'
+      },
+      fr: {
+        title: '⚡ SolveGrid TechPulse & Radar IA',
+        desc: 'Actualités technologiques en temps réel, arbitrage en 32 devises et certifications cloud.'
+      },
+      de: {
+        title: '⚡ SolveGrid TechPulse & KI-Radar',
+        desc: 'Echtzeit-Technologie-News, 32-Währungs-Arbitrage und Unternehmens-Cybersicherheit.'
+      },
+      ja: {
+        title: '⚡ SolveGrid テックパルス & AIレーダー',
+        desc: 'リアルタイムのクラウド技術動向、32通貨リアルタイム計算、DevSecOps認定バウチャー。'
+      },
+      zh: {
+        title: '⚡ SolveGrid 科技脉搏与人工智能雷达',
+        desc: '实时云计算趋势、32种货币套利换算器以及企业级网络安全认证。'
+      }
+    };
+
     function setSolveLang(l, btn) {
       document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
-      if (btn) btn.classList.add('active');
-      if (l === 'pt') {
-        document.getElementById('solve-title').innerText = '⚡ SolveGrid TechPulse & Radar de IA';
-        document.getElementById('solve-desc').innerText = 'Notícias de tecnologia em tempo real, arbitragem em 32 moedas e vouchers de certificações.';
-      } else if (l === 'es') {
-        document.getElementById('solve-title').innerText = '⚡ SolveGrid TechPulse y Radar de IA';
-        document.getElementById('solve-desc').innerText = 'Noticias de tecnología en tiempo real, arbitraje de 32 monedas y cupones de certificación.';
-      } else {
-        document.getElementById('solve-title').innerText = '⚡ SolveGrid TechPulse & AI Radar';
-        document.getElementById('solve-desc').innerText = 'Real-time technology news, 32-currency arbitrage, dev certifications, and enterprise cybersecurity insights.';
-      }
+      const targetBtn = btn || document.querySelector(`.lang-btn[data-lang="${l}"]`);
+      if (targetBtn) targetBtn.classList.add('active');
+      const dict = SOLVE_I18N[l] || SOLVE_I18N.en;
+      document.getElementById('solve-title').innerText = dict.title;
+      document.getElementById('solve-desc').innerText = dict.desc;
     }
 
     document.addEventListener('DOMContentLoaded', () => {
       calculateFX();
+      try {
+        const bl = (navigator.language || navigator.userLanguage || 'en').substring(0, 2).toLowerCase();
+        if (SOLVE_I18N[bl]) {
+          setSolveLang(bl);
+        }
+      } catch (e) {}
     });
   </script>
 </body>
