@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SolveGrid TechPulse - 32-Currencies Arbitrage &amp; Cloud Intelligence</title>
+    <link>https://solvegrid.com.br</link>
+    <description>Global technology pulse: 32-currency live arbitrage, cybersecurity threat alerts, and DevSecOps certifications.</description>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Aug 2026 19:45:00 GMT</lastBuildDate>
+    <atom:link href="https://solvegrid.com.br/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+    <atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/" />
+
+    <item>
+      <title>SolveGrid TechPulse &amp; Live 32-Currencies Converter</title>
+      <link>https://solvegrid.com.br/tech-pulse</link>
+      <guid isPermaLink="true">https://solvegrid.com.br/tech-pulse</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 GMT</pubDate>
+      <description>Real-time cross-border exchange rates, cloud architecture benchmarks, and exclusive security discounts.</description>
+    </item>
+  </channel>
+</rss>
