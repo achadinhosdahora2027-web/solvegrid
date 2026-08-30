@@ -1,0 +1,16 @@
+{
+  "name": "SolveGrid — TechPulse & Cloud Radar",
+  "short_name": "SolveGrid",
+  "start_url": "/tech-pulse",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0284c7",
+  "description": "SolveGrid Cloud & Cybersecurity intelligence radar.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

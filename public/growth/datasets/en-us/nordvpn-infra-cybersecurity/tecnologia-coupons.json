@@ -5,6 +5,16 @@
   "locale": "en-us",
   "facet": "nordvpn-infra-cybersecurity",
   "format": "tecnologia-coupons",
+  "hreflang": {
+    "en-us": "https://solvegrid.com.br/growth/en-us/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "pt-br": "https://solvegrid.com.br/growth/pt-br/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "es-es": "https://solvegrid.com.br/growth/es-es/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "de-de": "https://solvegrid.com.br/growth/de-de/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "fr-fr": "https://solvegrid.com.br/growth/fr-fr/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "ja-jp": "https://solvegrid.com.br/growth/ja-jp/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "zh-cn": "https://solvegrid.com.br/growth/zh-cn/nordvpn-infra-cybersecurity/tecnologia-coupons",
+    "x-default": "https://solvegrid.com.br/growth/en-us/nordvpn-infra-cybersecurity/tecnologia-coupons"
+  },
   "affiliateHosts": [
     "https://www.tkqlhce.com",
     "https://www.dpbolvw.net",
