@@ -1,0 +1,21 @@
+{
+  "generated_at": "Mon, 31 Aug 2026 03:23:40 GMT",
+  "network": "SolveGrid Global Feed",
+  "total_campaigns": 2,
+  "broadcast_queue": [
+    {
+      "headline": "SolveGrid Tech Pulse: Cloud, DevOps & SaaS Insights 2026",
+      "target_url": "https://www.solvegrid.com.br/tech-pulse/index.html",
+      "telegram_caption": "⚙️ *SolveGrid Tech Pulse: Cloud, DevOps & SaaS Insights 2026*\n\nDaily automated engineering intelligence, high-performance architecture patterns, and DevOps tooling.\n\n👉 Acesse: https://www.solvegrid.com.br/tech-pulse/index.html",
+      "whatsapp_message": "*SolveGrid Tech Pulse: Cloud, DevOps & SaaS Insights 2026*\nDaily automated engineering intelligence, high-performance architecture patterns, and DevOps tooling.\n👉 https://www.solvegrid.com.br/tech-pulse/index.html",
+      "category": "Software Engineering"
+    },
+    {
+      "headline": "NordVPN Enterprise Cloud Protection & Encrypted Tunneling",
+      "target_url": "https://www.solvegrid.com.br/tech-pulse/index.html#vpn",
+      "telegram_caption": "⚙️ *NordVPN Enterprise Cloud Protection & Encrypted Tunneling*\n\nSecure multi-cloud nodes with dedicated IP ranges and defense-grade privacy protocols.\n\n👉 Acesse: https://www.solvegrid.com.br/tech-pulse/index.html#vpn",
+      "whatsapp_message": "*NordVPN Enterprise Cloud Protection & Encrypted Tunneling*\nSecure multi-cloud nodes with dedicated IP ranges and defense-grade privacy protocols.\n👉 https://www.solvegrid.com.br/tech-pulse/index.html#vpn",
+      "category": "DevOps & Security"
+    }
+  ]
+}

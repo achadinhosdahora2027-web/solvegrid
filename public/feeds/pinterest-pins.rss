@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SolveGrid Engineering & Cloud Feeds 2026</title>
+    <link>https://www.solvegrid.com.br</link>
+    <description>Cloud architecture, DevOps tooling, and tech solutions feed.</description>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 31 Aug 2026 03:23:40 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[SolveGrid Tech Pulse: Cloud, DevOps & SaaS Insights 2026]]></title>
+      <link>https://www.solvegrid.com.br/tech-pulse/index.html</link>
+      <guid isPermaLink="true">https://www.solvegrid.com.br/tech-pulse/index.html</guid>
+      <description><![CDATA[Daily automated engineering intelligence, high-performance architecture patterns, and DevOps tooling.]]></description>
+      <category><![CDATA[Software Engineering]]></category>
+      <pubDate>Mon, 31 Aug 2026 03:23:40 GMT</pubDate>
+      <media:content url="https://www.solvegrid.com.br/favicon.ico" medium="image" />
+    </item>
+    <item>
+      <title><![CDATA[NordVPN Enterprise Cloud Protection & Encrypted Tunneling]]></title>
+      <link>https://www.solvegrid.com.br/tech-pulse/index.html#vpn</link>
+      <guid isPermaLink="true">https://www.solvegrid.com.br/tech-pulse/index.html#vpn</guid>
+      <description><![CDATA[Secure multi-cloud nodes with dedicated IP ranges and defense-grade privacy protocols.]]></description>
+      <category><![CDATA[DevOps & Security]]></category>
+      <pubDate>Mon, 31 Aug 2026 03:23:40 GMT</pubDate>
+      <media:content url="https://www.solvegrid.com.br/favicon.ico" medium="image" />
+    </item>
+  </channel>
+</rss>
