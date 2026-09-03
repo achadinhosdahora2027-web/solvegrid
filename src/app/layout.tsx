@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   description: 'Diretório técnico B2B SaaS, DevOps e Cloud Infrastructure nos 7 idiomas de elite.',
   other: {
     'msvalidate.01': '3A2C872722FB7A0065EE4481358FF8BE',
-    monetag: '8469089b876439517e6c5247573c6e21'
   },
   robots: {
     index: true,
