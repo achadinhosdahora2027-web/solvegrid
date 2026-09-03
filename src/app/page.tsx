@@ -38,8 +38,8 @@ export default function SolveGridHome() {
 
   return (
     <main className="min-h-screen px-4 py-12 md:py-20 max-w-5xl mx-auto space-y-16">
-      <img src="https://www.ftjcfx.com/image-8041957-17288448" width="1" height="1" alt="" className="opacity-0 pointer-events-none absolute" loading="lazy" />
-      <img src="https://www.tqlkg.com/image-8041957-17075184" width="1" height="1" alt="" className="opacity-0 pointer-events-none absolute" loading="lazy" />
+      <img src="https://www.ftjcfx.com/image-101870640-17288448" width="1" height="1" alt="" className="opacity-0 pointer-events-none absolute" />
+      <img src="https://www.tqlkg.com/image-101870640-17075184" width="1" height="1" alt="" className="opacity-0 pointer-events-none absolute" />
 
       <header className="text-center space-y-4">
         <span className="text-xs uppercase font-mono tracking-widest text-indigo-400 bg-indigo-950/80 px-3 py-1 rounded-full border border-indigo-800/60">
