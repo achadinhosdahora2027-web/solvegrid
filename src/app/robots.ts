@@ -7,8 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/'
     },
     sitemap: [
-      'https://solvegrid.com.br/sitemap.xml',
-      'https://solvegrid.com.br/growth/sitemaps/sitemap-index.xml'
+      'https://solvegrid.com.br/sitemap.xml'
     ],
     host: 'https://solvegrid.com.br'
   };
