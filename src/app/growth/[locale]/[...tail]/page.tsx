@@ -208,7 +208,7 @@ export default async function GrowthPage({ params }: PageProps) {
           title="Promoção Exclusiva de Cibersegurança & Nuvem"
           badge="Destaque Verificado"
           ctaText="Ativar Oferta Especial"
-          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=nordvpn&site=nexus&slot=header"
+          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=nordvpn&site=solvegrid&slot=header"
         />
 
         <header className="text-center space-y-4">
@@ -239,7 +239,7 @@ export default async function GrowthPage({ params }: PageProps) {
                     </span>
                   )}
                   <OfferButton
-                    href={offer.url || `https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=${encodeURIComponent(offer.brand || 'nordvpn')}&site=nexus&slot=card_${idx}`}
+                    href={offer.url || `https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=${encodeURIComponent(offer.brand || 'nordvpn')}&site=solvegrid&slot=card_${idx}`}
                     label={offer.cta || 'Obter Desconto'}
                     brand={offer.brand}
                     price={offer.priceFormatted}
@@ -255,7 +255,7 @@ export default async function GrowthPage({ params }: PageProps) {
           title="Economize até 70% com as Melhores Ferramentas Globais"
           badge="Recomendado"
           ctaText="Ver Oferta Inline"
-          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=surfshark&site=nexus&slot=inline"
+          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=surfshark&site=solvegrid&slot=inline"
         />
 
         <AdSlot
@@ -263,7 +263,7 @@ export default async function GrowthPage({ params }: PageProps) {
           title="Soluções Corporativas & Inteligência Artificial"
           badge="B2B SaaS"
           ctaText="Conhecer Agora"
-          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=malwarebytes&site=nexus&slot=rectangle"
+          ctaUrl="https://achadinhos-ad-engine.vercel.app/api/ads/go?brand=malwarebytes&site=solvegrid&slot=rectangle"
         />
 
         <footer className="pt-8 border-t border-slate-800/80 text-xs text-slate-500 leading-relaxed text-center">
