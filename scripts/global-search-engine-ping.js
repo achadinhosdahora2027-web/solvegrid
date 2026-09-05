@@ -13,7 +13,7 @@
 const https = require('https');
 const http = require('http');
 
-const KEY = 'a120ccc82c4e2dbeeda51d4cd6d03284e2909f92f101984a2133e567b748455c';
+const KEY = '09b71aee3de9640204b04d9365e8b8de09886712f39bd1fae5937e0caae4e451';
 
 const DOMAINS_AND_URLS = [
   {
