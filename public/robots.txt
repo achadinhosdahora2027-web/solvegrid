@@ -73,4 +73,4 @@ Disallow: /api/ads/
 Disallow: /api/affiliate/
 Disallow: /*?*sid=
 Disallow: /*?*utm_
-Sitemap: https://solvegrid.com.br/sitemap.xml
+Sitemap: https://www.solvegrid.com.br/sitemap.xml
