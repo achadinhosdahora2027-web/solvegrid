@@ -26,7 +26,8 @@
   "capital": [
    {
     "qid": "Q1863",
-    "nome": "Andorra-a-Velha"
+    "nome": "Andorra-a-Velha",
+    "end": null
    }
   ],
   "fusos": [
@@ -74,7 +75,8 @@
   "capital": [
    {
     "qid": "Q1519",
-    "nome": "Abu Dhabi"
+    "nome": "Abu Dhabi",
+    "end": null
    }
   ],
   "fusos": [
@@ -158,7 +160,8 @@
   "capital": [
    {
     "qid": "Q5838",
-    "nome": "Cabul"
+    "nome": "Cabul",
+    "end": null
    }
   ],
   "fusos": [
@@ -207,7 +210,8 @@
   "capital": [
    {
     "qid": "Q36262",
-    "nome": "São João"
+    "nome": "São João",
+    "end": null
    }
   ],
   "fusos": [
@@ -251,7 +255,8 @@
   "capital": [
    {
     "qid": "Q19689",
-    "nome": "Tirana"
+    "nome": "Tirana",
+    "end": null
    }
   ],
   "fusos": [
@@ -303,7 +308,8 @@
   "capital": [
    {
     "qid": "Q1953",
-    "nome": "Erevã"
+    "nome": "Erevã",
+    "end": null
    }
   ],
   "fusos": [
@@ -372,7 +378,8 @@
   "capital": [
    {
     "qid": "Q3897",
-    "nome": "Luanda"
+    "nome": "Luanda",
+    "end": null
    }
   ],
   "fusos": [
@@ -444,7 +451,8 @@
   "capital": [
    {
     "qid": "Q1486",
-    "nome": "Buenos Aires"
+    "nome": "Buenos Aires",
+    "end": null
    }
   ],
   "fusos": [
@@ -510,7 +518,8 @@
   "capital": [
    {
     "qid": "Q1741",
-    "nome": "Viena"
+    "nome": "Viena",
+    "end": null
    }
   ],
   "fusos": [
@@ -586,11 +595,13 @@
   "capital": [
    {
     "qid": "Q3114",
-    "nome": "Camberra"
+    "nome": "Camberra",
+    "end": null
    },
    {
     "qid": "Q3141",
-    "nome": "Melbourne"
+    "nome": "Melbourne",
+    "end": "+1927-05-09T00:00:00Z"
    }
   ],
   "fusos": [
@@ -756,7 +767,8 @@
   "capital": [
    {
     "qid": "Q9248",
-    "nome": "Baku"
+    "nome": "Baku",
+    "end": null
    }
   ],
   "fusos": [
@@ -818,7 +830,8 @@
   "capital": [
    {
     "qid": "Q11194",
-    "nome": "Sarajevo"
+    "nome": "Sarajevo",
+    "end": null
    }
   ],
   "fusos": [
@@ -875,7 +888,8 @@
   "capital": [
    {
     "qid": "Q36168",
-    "nome": "Bridgetown"
+    "nome": "Bridgetown",
+    "end": null
    }
   ],
   "fusos": [
@@ -919,7 +933,8 @@
   "capital": [
    {
     "qid": "Q1354",
-    "nome": "Daca"
+    "nome": "Daca",
+    "end": null
    }
   ],
   "fusos": [
@@ -984,7 +999,8 @@
   "capital": [
    {
     "qid": "Q239",
-    "nome": "Bruxelas"
+    "nome": "Bruxelas",
+    "end": null
    }
   ],
   "fusos": [
@@ -1050,7 +1066,8 @@
   "capital": [
    {
     "qid": "Q3777",
-    "nome": "Uagadugu"
+    "nome": "Uagadugu",
+    "end": null
    }
   ],
   "fusos": [
@@ -1101,7 +1118,8 @@
   "capital": [
    {
     "qid": "Q472",
-    "nome": "Sófia"
+    "nome": "Sófia",
+    "end": null
    }
   ],
   "fusos": [
@@ -1164,7 +1182,8 @@
   "capital": [
    {
     "qid": "Q3882",
-    "nome": "Manama"
+    "nome": "Manama",
+    "end": null
    }
   ],
   "fusos": [
@@ -1218,11 +1237,13 @@
   "capital": [
    {
     "qid": "Q3854",
-    "nome": "Bujumbura"
+    "nome": "Bujumbura",
+    "end": "+2019-01-15T00:00:00Z"
    },
    {
     "qid": "Q167551",
-    "nome": "Guitega"
+    "nome": "Guitega",
+    "end": null
    }
   ],
   "fusos": [
@@ -1266,11 +1287,13 @@
   "capital": [
    {
     "qid": "Q3799",
-    "nome": "Porto Novo"
+    "nome": "Porto Novo",
+    "end": null
    },
    {
     "qid": "Q43595",
-    "nome": "Cotonu"
+    "nome": "Cotonu",
+    "end": null
    }
   ],
   "fusos": [
@@ -1319,7 +1342,8 @@
   "capital": [
    {
     "qid": "Q9279",
-    "nome": "Bandar Seri Begawan"
+    "nome": "Bandar Seri Begawan",
+    "end": null
    }
   ],
   "fusos": [
@@ -1399,11 +1423,13 @@
   "capital": [
    {
     "qid": "Q2907",
-    "nome": "Sucre"
+    "nome": "Sucre",
+    "end": null
    },
    {
     "qid": "Q1491",
-    "nome": "La Paz"
+    "nome": "La Paz",
+    "end": null
    }
   ],
   "fusos": [
@@ -1508,11 +1534,13 @@
   "capital": [
    {
     "qid": "Q8678",
-    "nome": "Rio de Janeiro"
+    "nome": "Rio de Janeiro",
+    "end": "+1960-04-22T00:00:00Z"
    },
    {
     "qid": "Q2844",
-    "nome": "Brasília"
+    "nome": "Brasília",
+    "end": null
    }
   ],
   "fusos": [
@@ -1580,7 +1608,8 @@
   "capital": [
    {
     "qid": "Q2467",
-    "nome": "Nassau"
+    "nome": "Nassau",
+    "end": null
    }
   ],
   "fusos": [
@@ -1624,7 +1653,8 @@
   "capital": [
    {
     "qid": "Q9270",
-    "nome": "Thimbu"
+    "nome": "Thimbu",
+    "end": null
    }
   ],
   "fusos": [
@@ -1668,7 +1698,8 @@
   "capital": [
    {
     "qid": "Q3919",
-    "nome": "Gaborone"
+    "nome": "Gaborone",
+    "end": null
    }
   ],
   "fusos": [
@@ -1735,7 +1766,8 @@
   "capital": [
    {
     "qid": "Q2280",
-    "nome": "Minsk"
+    "nome": "Minsk",
+    "end": null
    }
   ],
   "fusos": [
@@ -1779,7 +1811,8 @@
   "capital": [
    {
     "qid": "Q3043",
-    "nome": "Belmopan"
+    "nome": "Belmopan",
+    "end": null
    }
   ],
   "fusos": [
@@ -1828,7 +1861,8 @@
   "capital": [
    {
     "qid": "Q1930",
-    "nome": "Ottawa"
+    "nome": "Ottawa",
+    "end": null
    }
   ],
   "fusos": [
@@ -1912,7 +1946,8 @@
   "capital": [
    {
     "qid": "Q3838",
-    "nome": "Quinxassa"
+    "nome": "Quinxassa",
+    "end": null
    }
   ],
   "fusos": [
@@ -1961,7 +1996,8 @@
   "capital": [
    {
     "qid": "Q3832",
-    "nome": "Bangui"
+    "nome": "Bangui",
+    "end": null
    }
   ],
   "fusos": [
@@ -2005,7 +2041,8 @@
   "capital": [
    {
     "qid": "Q3844",
-    "nome": "Brazavile"
+    "nome": "Brazavile",
+    "end": null
    }
   ],
   "fusos": [
@@ -2060,7 +2097,8 @@
   "capital": [
    {
     "qid": "Q70",
-    "nome": "Berna"
+    "nome": "Berna",
+    "end": null
    }
   ],
   "fusos": [
@@ -2112,11 +2150,13 @@
   "capital": [
    {
     "qid": "Q3768",
-    "nome": "Yamoussoukro"
+    "nome": "Yamoussoukro",
+    "end": null
    },
    {
     "qid": "Q1515",
-    "nome": "Abidjan"
+    "nome": "Abidjan",
+    "end": "+1983-03-01T00:00:00Z"
    }
   ],
   "fusos": [
@@ -2174,7 +2214,8 @@
   "capital": [
    {
     "qid": "Q2887",
-    "nome": "Santiago"
+    "nome": "Santiago",
+    "end": null
    }
   ],
   "fusos": [
@@ -2244,7 +2285,8 @@
   "capital": [
    {
     "qid": "Q3808",
-    "nome": "Iaundé"
+    "nome": "Iaundé",
+    "end": null
    }
   ],
   "fusos": [
@@ -2307,7 +2349,8 @@
   "capital": [
    {
     "qid": "Q956",
-    "nome": "Pequim"
+    "nome": "Pequim",
+    "end": null
    }
   ],
   "fusos": [
@@ -2359,7 +2402,8 @@
   "capital": [
    {
     "qid": "Q2841",
-    "nome": "Bogotá"
+    "nome": "Bogotá",
+    "end": null
    }
   ],
   "fusos": [
@@ -2410,7 +2454,8 @@
   "capital": [
    {
     "qid": "Q3070",
-    "nome": "San José"
+    "nome": "San José",
+    "end": null
    }
   ],
   "fusos": [
@@ -2461,7 +2506,8 @@
   "capital": [
    {
     "qid": "Q1563",
-    "nome": "Havana"
+    "nome": "Havana",
+    "end": null
    }
   ],
   "fusos": [
@@ -2510,7 +2556,8 @@
   "capital": [
    {
     "qid": "Q3751",
-    "nome": "Praia"
+    "nome": "Praia",
+    "end": null
    }
   ],
   "fusos": [
@@ -2577,7 +2624,8 @@
   "capital": [
    {
     "qid": "Q3856",
-    "nome": "Nicósia"
+    "nome": "Nicósia",
+    "end": null
    }
   ],
   "fusos": [
@@ -2641,7 +2689,8 @@
   "capital": [
    {
     "qid": "Q1085",
-    "nome": "Praga"
+    "nome": "Praga",
+    "end": null
    }
   ],
   "fusos": [
@@ -2704,23 +2753,28 @@
   "capital": [
    {
     "qid": "Q64",
-    "nome": "Berlim"
+    "nome": "Berlim",
+    "end": null
    },
    {
     "qid": "Q586",
-    "nome": "Bona"
+    "nome": "Bona",
+    "end": "+1999-00-00T00:00:00Z"
    },
    {
     "qid": "Q586",
-    "nome": "Bona"
+    "nome": "Bona",
+    "end": "+1990-00-00T00:00:00Z"
    },
    {
     "qid": "Q64",
-    "nome": "Berlim"
+    "nome": "Berlim",
+    "end": null
    },
    {
     "qid": "Q64",
-    "nome": "Berlim"
+    "nome": "Berlim",
+    "end": null
    }
   ],
   "fusos": [
@@ -2781,7 +2835,8 @@
   "capital": [
    {
     "qid": "Q3604",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -2825,7 +2880,8 @@
   "capital": [
    {
     "qid": "Q1748",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -2877,7 +2933,8 @@
   "capital": [
    {
     "qid": "Q36281",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -2927,7 +2984,8 @@
   "capital": [
    {
     "qid": "Q34820",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -2983,7 +3041,8 @@
   "capital": [
    {
     "qid": "Q3561",
-    "nome": "Argel"
+    "nome": "Argel",
+    "end": null
    }
   ],
   "fusos": [
@@ -3051,7 +3110,8 @@
   "capital": [
    {
     "qid": "Q2900",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -3124,7 +3184,8 @@
   "capital": [
    {
     "qid": "Q1770",
-    "nome": "Tallinn"
+    "nome": "Tallinn",
+    "end": null
    }
   ],
   "fusos": [
@@ -3180,15 +3241,18 @@
   "capital": [
    {
     "qid": "Q85",
-    "nome": "Cairo"
+    "nome": "Cairo",
+    "end": null
    },
    {
     "qid": "Q1153959",
-    "nome": "Thinis"
+    "nome": "Thinis",
+    "end": "-2707-00-00T00:00:00Z"
    },
    {
     "qid": "Q5715",
-    "nome": "Mênfis"
+    "nome": "Mênfis",
+    "end": "-2216-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -3247,7 +3311,8 @@
   "capital": [
    {
     "qid": "Q3642",
-    "nome": "Asmara"
+    "nome": "Asmara",
+    "end": null
    }
   ],
   "fusos": [
@@ -3318,19 +3383,23 @@
   "capital": [
    {
     "qid": "Q2807",
-    "nome": "Madrid"
+    "nome": "Madrid",
+    "end": null
    },
    {
     "qid": "Q31844059",
-    "nome": "Toledo"
+    "nome": "Toledo",
+    "end": "+1561-00-00T00:00:00Z"
    },
    {
     "qid": "Q116170766",
-    "nome": "Madrid city"
+    "nome": "Madrid city",
+    "end": "+1601-00-00T00:00:00Z"
    },
    {
     "qid": "Q31925679",
-    "nome": "Valladolid"
+    "nome": "Valladolid",
+    "end": "+1606-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -3389,7 +3458,8 @@
   "capital": [
    {
     "qid": "Q3624",
-    "nome": "Adis Abeba"
+    "nome": "Adis Abeba",
+    "end": null
    }
   ],
   "fusos": [
@@ -3449,11 +3519,13 @@
   "capital": [
    {
     "qid": "Q1757",
-    "nome": "Helsínquia"
+    "nome": "Helsínquia",
+    "end": null
    },
    {
     "qid": "Q38511",
-    "nome": "Turku"
+    "nome": "Turku",
+    "end": "+1812-04-08T00:00:00Z"
    }
   ],
   "fusos": [
@@ -3526,7 +3598,8 @@
   "capital": [
    {
     "qid": "Q38807",
-    "nome": "Suva"
+    "nome": "Suva",
+    "end": null
    }
   ],
   "fusos": [
@@ -3570,11 +3643,13 @@
   "capital": [
    {
     "qid": "Q42751",
-    "nome": "Paliquir"
+    "nome": "Paliquir",
+    "end": null
    },
    {
     "qid": "Q514165",
-    "nome": "Kolonia"
+    "nome": "Kolonia",
+    "end": "+1989-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -3640,43 +3715,53 @@
   "capital": [
    {
     "qid": "Q90",
-    "nome": "Paris"
+    "nome": "Paris",
+    "end": null
    },
    {
     "qid": "Q183910",
-    "nome": "Bayeux"
+    "nome": "Bayeux",
+    "end": "+1944-09-00T00:00:00Z"
    },
    {
     "qid": "Q93351",
-    "nome": "Vichy"
+    "nome": "Vichy",
+    "end": "+1944-08-20T00:00:00Z"
    },
    {
     "qid": "Q3561",
-    "nome": "Argel"
+    "nome": "Argel",
+    "end": "+1944-00-00T00:00:00Z"
    },
    {
     "qid": "Q84",
-    "nome": "Londres"
+    "nome": "Londres",
+    "end": "+1942-00-00T00:00:00Z"
    },
    {
     "qid": "Q3844",
-    "nome": "Brazavile"
+    "nome": "Brazavile",
+    "end": "+1942-00-00T00:00:00Z"
    },
    {
     "qid": "Q1479",
-    "nome": "Bordéus"
+    "nome": "Bordéus",
+    "end": "+1940-06-28T00:00:00Z"
    },
    {
     "qid": "Q288",
-    "nome": "Tours"
+    "nome": "Tours",
+    "end": "+1940-06-13T00:00:00Z"
    },
    {
     "qid": "Q621",
-    "nome": "Versalhes"
+    "nome": "Versalhes",
+    "end": "+1879-00-00T00:00:00Z"
    },
    {
     "qid": "Q621",
-    "nome": "Versalhes"
+    "nome": "Versalhes",
+    "end": "+1789-10-05T00:00:00Z"
    }
   ],
   "fusos": [
@@ -3776,7 +3861,8 @@
   "capital": [
    {
     "qid": "Q3825",
-    "nome": "Libreville"
+    "nome": "Libreville",
+    "end": null
    }
   ],
   "fusos": [
@@ -3859,7 +3945,8 @@
   "capital": [
    {
     "qid": "Q84",
-    "nome": "Londres"
+    "nome": "Londres",
+    "end": null
    }
   ],
   "fusos": [
@@ -3912,7 +3999,8 @@
   "capital": [
    {
     "qid": "Q41547",
-    "nome": "São Jorge"
+    "nome": "São Jorge",
+    "end": null
    }
   ],
   "fusos": [
@@ -3961,11 +4049,13 @@
   "capital": [
    {
     "qid": "Q994",
-    "nome": "Tiblíssi"
+    "nome": "Tiblíssi",
+    "end": null
    },
    {
     "qid": "Q172415",
-    "nome": "Kutaisi"
+    "nome": "Kutaisi",
+    "end": "+1122-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -4020,7 +4110,8 @@
   "capital": [
    {
     "qid": "Q3761",
-    "nome": "Acra"
+    "nome": "Acra",
+    "end": null
    }
   ],
   "fusos": [
@@ -4071,7 +4162,8 @@
   "capital": [
    {
     "qid": "Q3726",
-    "nome": "Banjul"
+    "nome": "Banjul",
+    "end": null
    }
   ],
   "fusos": [
@@ -4127,7 +4219,8 @@
   "capital": [
    {
     "qid": "Q3733",
-    "nome": "Conacri"
+    "nome": "Conacri",
+    "end": null
    }
   ],
   "fusos": [
@@ -4195,11 +4288,13 @@
   "capital": [
    {
     "qid": "Q3818",
-    "nome": "Malabo"
+    "nome": "Malabo",
+    "end": "+2026-01-03T00:00:00Z"
    },
    {
     "qid": "Q1140136",
-    "nome": "Ciudad de la Paz"
+    "nome": "Ciudad de la Paz",
+    "end": null
    }
   ],
   "fusos": [
@@ -4263,19 +4358,23 @@
   "capital": [
    {
     "qid": "Q1524",
-    "nome": "Atenas"
+    "nome": "Atenas",
+    "end": null
    },
    {
     "qid": "Q202337",
-    "nome": "Náuplia"
+    "nome": "Náuplia",
+    "end": "+1833-00-00T00:00:00Z"
    },
    {
     "qid": "Q3720429",
-    "nome": "Aegina"
+    "nome": "Aegina",
+    "end": "+1828-00-00T00:00:00Z"
    },
    {
     "qid": "Q1524",
-    "nome": "Atenas"
+    "nome": "Atenas",
+    "end": null
    }
   ],
   "fusos": [
@@ -4338,7 +4437,8 @@
   "capital": [
    {
     "qid": "Q1555",
-    "nome": "Cidade da Guatemala"
+    "nome": "Cidade da Guatemala",
+    "end": null
    }
   ],
   "fusos": [
@@ -4389,7 +4489,8 @@
   "capital": [
    {
     "qid": "Q3739",
-    "nome": "Bissau"
+    "nome": "Bissau",
+    "end": null
    }
   ],
   "fusos": [
@@ -4433,7 +4534,8 @@
   "capital": [
    {
     "qid": "Q10717",
-    "nome": "Georgetown"
+    "nome": "Georgetown",
+    "end": null
    }
   ],
   "fusos": [
@@ -4484,7 +4586,8 @@
   "capital": [
    {
     "qid": "Q3238",
-    "nome": "Tegucigalpa"
+    "nome": "Tegucigalpa",
+    "end": null
    }
   ],
   "fusos": [
@@ -4542,7 +4645,8 @@
   "capital": [
    {
     "qid": "Q1435",
-    "nome": "Zagreb"
+    "nome": "Zagreb",
+    "end": null
    }
   ],
   "fusos": [
@@ -4606,7 +4710,8 @@
   "capital": [
    {
     "qid": "Q34261",
-    "nome": "Porto Príncipe"
+    "nome": "Porto Príncipe",
+    "end": null
    }
   ],
   "fusos": [
@@ -4650,7 +4755,8 @@
   "capital": [
    {
     "qid": "Q1781",
-    "nome": "Budapeste"
+    "nome": "Budapeste",
+    "end": null
    }
   ],
   "fusos": [
@@ -4702,23 +4808,28 @@
   "capital": [
    {
     "qid": "Q3630",
-    "nome": "Jacarta"
+    "nome": "Jacarta",
+    "end": "+1946-01-04T00:00:00Z"
    },
    {
     "qid": "Q7568",
-    "nome": "Joguejacarta"
+    "nome": "Joguejacarta",
+    "end": "+1948-12-22T00:00:00Z"
    },
    {
     "qid": "Q7248",
-    "nome": "Bukittinggi"
+    "nome": "Bukittinggi",
+    "end": "+1950-08-17T00:00:00Z"
    },
    {
     "qid": "Q3630",
-    "nome": "Jacarta"
+    "nome": "Jacarta",
+    "end": null
    },
    {
     "qid": "Q110601629",
-    "nome": "Nusantara"
+    "nome": "Nusantara",
+    "end": null
    }
   ],
   "fusos": [
@@ -4802,7 +4913,8 @@
   "capital": [
    {
     "qid": "Q1761",
-    "nome": "Dublin"
+    "nome": "Dublin",
+    "end": null
    }
   ],
   "fusos": [
@@ -4872,15 +4984,18 @@
   "capital": [
    {
     "qid": "Q1218",
-    "nome": "Jerusalém"
+    "nome": "Jerusalém",
+    "end": null
    },
    {
     "qid": "Q33935",
-    "nome": "Tel Aviv"
+    "nome": "Tel Aviv",
+    "end": "+1949-11-07T00:00:00Z"
    },
    {
     "qid": "Q33935",
-    "nome": "Tel Aviv"
+    "nome": "Tel Aviv",
+    "end": null
    }
   ],
   "fusos": [
@@ -4941,7 +5056,8 @@
   "capital": [
    {
     "qid": "Q987",
-    "nome": "Nova Deli"
+    "nome": "Nova Deli",
+    "end": null
    }
   ],
   "fusos": [],
@@ -4981,7 +5097,8 @@
   "capital": [
    {
     "qid": "Q1530",
-    "nome": "Bagdá"
+    "nome": "Bagdá",
+    "end": null
    }
   ],
   "fusos": [
@@ -5025,7 +5142,8 @@
   "capital": [
    {
     "qid": "Q3616",
-    "nome": "Teerão"
+    "nome": "Teerão",
+    "end": null
    }
   ],
   "fusos": [
@@ -5073,7 +5191,8 @@
   "capital": [
    {
     "qid": "Q1764",
-    "nome": "Reykjavík"
+    "nome": "Reykjavík",
+    "end": null
    }
   ],
   "fusos": [
@@ -5124,15 +5243,18 @@
   "capital": [
    {
     "qid": "Q220",
-    "nome": "Roma"
+    "nome": "Roma",
+    "end": null
    },
    {
     "qid": "Q2044",
-    "nome": "Florença"
+    "nome": "Florença",
+    "end": "+1871-00-00T00:00:00Z"
    },
    {
     "qid": "Q495",
-    "nome": "Turim"
+    "nome": "Turim",
+    "end": "+1865-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -5200,7 +5322,8 @@
   "capital": [
    {
     "qid": "Q34692",
-    "nome": "Kingston"
+    "nome": "Kingston",
+    "end": null
    }
   ],
   "fusos": [
@@ -5244,7 +5367,8 @@
   "capital": [
    {
     "qid": "Q3805",
-    "nome": "Amã"
+    "nome": "Amã",
+    "end": null
    }
   ],
   "fusos": [
@@ -5292,39 +5416,48 @@
   "capital": [
    {
     "qid": "Q262438",
-    "nome": "Shigaraki Palace"
+    "nome": "Shigaraki Palace",
+    "end": "+0745-00-00T00:00:00Z"
    },
    {
     "qid": "Q862509",
-    "nome": "Heijō-kyō"
+    "nome": "Heijō-kyō",
+    "end": "+0784-00-00T00:00:00Z"
    },
    {
     "qid": "Q1052803",
-    "nome": "Nagaoka-kyō"
+    "nome": "Nagaoka-kyō",
+    "end": "+0794-00-00T00:00:00Z"
    },
    {
     "qid": "Q6031707",
-    "nome": "Fukuhara-kyō"
+    "nome": "Fukuhara-kyō",
+    "end": "+1180-00-00T00:00:00Z"
    },
    {
     "qid": "Q215646",
-    "nome": "Edo"
+    "nome": "Edo",
+    "end": "+1868-00-00T00:00:00Z"
    },
    {
     "qid": "Q751907",
-    "nome": "Heian-Kyo"
+    "nome": "Heian-Kyo",
+    "end": "+1869-00-00T00:00:00Z"
    },
    {
     "qid": "Q1189121",
-    "nome": "Tóquio"
+    "nome": "Tóquio",
+    "end": "+1943-00-00T00:00:00Z"
    },
    {
     "qid": "Q1207735",
-    "nome": "Cidade de Tóquio"
+    "nome": "Cidade de Tóquio",
+    "end": "+1943-00-00T00:00:00Z"
    },
    {
     "qid": "Q1490",
-    "nome": "Tóquio"
+    "nome": "Tóquio",
+    "end": null
    }
   ],
   "fusos": [
@@ -5377,7 +5510,8 @@
   "capital": [
    {
     "qid": "Q3870",
-    "nome": "Nairóbi"
+    "nome": "Nairóbi",
+    "end": null
    }
   ],
   "fusos": [
@@ -5426,7 +5560,8 @@
   "capital": [
    {
     "qid": "Q9361",
-    "nome": "Bisqueque"
+    "nome": "Bisqueque",
+    "end": null
    }
   ],
   "fusos": [
@@ -5470,7 +5605,8 @@
   "capital": [
    {
     "qid": "Q1850",
-    "nome": "Phnom Penh"
+    "nome": "Phnom Penh",
+    "end": null
    }
   ],
   "fusos": [
@@ -5526,7 +5662,8 @@
   "capital": [
    {
     "qid": "Q131233",
-    "nome": "Tarawa do Sul"
+    "nome": "Tarawa do Sul",
+    "end": null
    }
   ],
   "fusos": [
@@ -5597,7 +5734,8 @@
   "capital": [
    {
     "qid": "Q3901",
-    "nome": "Moroni"
+    "nome": "Moroni",
+    "end": null
    }
   ],
   "fusos": [
@@ -5641,7 +5779,8 @@
   "capital": [
    {
     "qid": "Q41295",
-    "nome": "Basseterre"
+    "nome": "Basseterre",
+    "end": null
    }
   ],
   "fusos": [
@@ -5690,7 +5829,8 @@
   "capital": [
    {
     "qid": "Q18808",
-    "nome": "Pyongyang"
+    "nome": "Pyongyang",
+    "end": null
    }
   ],
   "fusos": [
@@ -5754,7 +5894,8 @@
   "capital": [
    {
     "qid": "Q8684",
-    "nome": "Seul"
+    "nome": "Seul",
+    "end": null
    }
   ],
   "fusos": [
@@ -5817,7 +5958,8 @@
   "capital": [
    {
     "qid": "Q35178",
-    "nome": "Kuwait"
+    "nome": "Kuwait",
+    "end": null
    }
   ],
   "fusos": [
@@ -5867,11 +6009,13 @@
   "capital": [
    {
     "qid": "Q1520",
-    "nome": "Astana"
+    "nome": "Astana",
+    "end": null
    },
    {
     "qid": "Q35493",
-    "nome": "Almaty"
+    "nome": "Almaty",
+    "end": "+1997-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -5916,7 +6060,8 @@
   "capital": [
    {
     "qid": "Q9326",
-    "nome": "Vienciana"
+    "nome": "Vienciana",
+    "end": null
    }
   ],
   "fusos": [
@@ -5960,7 +6105,8 @@
   "capital": [
    {
     "qid": "Q3820",
-    "nome": "Beirute"
+    "nome": "Beirute",
+    "end": null
    }
   ],
   "fusos": [
@@ -6016,7 +6162,8 @@
   "capital": [
    {
     "qid": "Q41699",
-    "nome": "Castries"
+    "nome": "Castries",
+    "end": null
    }
   ],
   "fusos": [
@@ -6067,7 +6214,8 @@
   "capital": [
    {
     "qid": "Q1844",
-    "nome": "Vaduz"
+    "nome": "Vaduz",
+    "end": null
    }
   ],
   "fusos": [
@@ -6124,11 +6272,13 @@
   "capital": [
    {
     "qid": "Q41963",
-    "nome": "Kotte"
+    "nome": "Kotte",
+    "end": null
    },
    {
     "qid": "Q35381",
-    "nome": "Colombo"
+    "nome": "Colombo",
+    "end": null
    }
   ],
   "fusos": [
@@ -6193,7 +6343,8 @@
   "capital": [
    {
     "qid": "Q3748",
-    "nome": "Monróvia"
+    "nome": "Monróvia",
+    "end": null
    }
   ],
   "fusos": [
@@ -6249,7 +6400,8 @@
   "capital": [
    {
     "qid": "Q3909",
-    "nome": "Maseru"
+    "nome": "Maseru",
+    "end": null
    }
   ],
   "fusos": [
@@ -6307,11 +6459,13 @@
   "capital": [
    {
     "qid": "Q216",
-    "nome": "Vilnius"
+    "nome": "Vilnius",
+    "end": null
    },
    {
     "qid": "Q4115712",
-    "nome": "Kaunas"
+    "nome": "Kaunas",
+    "end": "+1939-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -6380,7 +6534,8 @@
   "capital": [
    {
     "qid": "Q1842",
-    "nome": "Luxemburgo"
+    "nome": "Luxemburgo",
+    "end": null
    }
   ],
   "fusos": [
@@ -6446,7 +6601,8 @@
   "capital": [
    {
     "qid": "Q1773",
-    "nome": "Riga"
+    "nome": "Riga",
+    "end": null
    }
   ],
   "fusos": [
@@ -6502,7 +6658,8 @@
   "capital": [
    {
     "qid": "Q3579",
-    "nome": "Trípoli"
+    "nome": "Trípoli",
+    "end": null
    }
   ],
   "fusos": [
@@ -6555,7 +6712,8 @@
   "capital": [
    {
     "qid": "Q3551",
-    "nome": "Rabat"
+    "nome": "Rabat",
+    "end": null
    }
   ],
   "fusos": [
@@ -6610,7 +6768,8 @@
   "capital": [
    {
     "qid": "Q235",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -6668,7 +6827,8 @@
   "capital": [
    {
     "qid": "Q21197",
-    "nome": "Chișinău"
+    "nome": "Chișinău",
+    "end": null
    }
   ],
   "fusos": [
@@ -6736,7 +6896,8 @@
   "capital": [
    {
     "qid": "Q23564",
-    "nome": "Podgorica"
+    "nome": "Podgorica",
+    "end": null
    }
   ],
   "fusos": [
@@ -6800,7 +6961,8 @@
   "capital": [
    {
     "qid": "Q3915",
-    "nome": "Antananarivo"
+    "nome": "Antananarivo",
+    "end": null
    }
   ],
   "fusos": [
@@ -6856,7 +7018,8 @@
   "capital": [
    {
     "qid": "Q12919",
-    "nome": "Majuro"
+    "nome": "Majuro",
+    "end": null
    }
   ],
   "fusos": [
@@ -6910,7 +7073,8 @@
   "capital": [
    {
     "qid": "Q384",
-    "nome": "Skopje"
+    "nome": "Skopje",
+    "end": null
    }
   ],
   "fusos": [
@@ -7033,7 +7197,8 @@
   "capital": [
    {
     "qid": "Q3703",
-    "nome": "Bamako"
+    "nome": "Bamako",
+    "end": null
    }
   ],
   "fusos": [
@@ -7091,11 +7256,13 @@
   "capital": [
    {
     "qid": "Q37400",
-    "nome": "Naypyidaw"
+    "nome": "Naypyidaw",
+    "end": null
    },
    {
     "qid": "Q37995",
-    "nome": "Rangum"
+    "nome": "Rangum",
+    "end": "+2005-11-06T00:00:00Z"
    }
   ],
   "fusos": [
@@ -7139,7 +7306,8 @@
   "capital": [
    {
     "qid": "Q23430",
-    "nome": "Ulã Bator"
+    "nome": "Ulã Bator",
+    "end": null
    }
   ],
   "fusos": [
@@ -7198,7 +7366,8 @@
   "capital": [
    {
     "qid": "Q3688",
-    "nome": "Nouakchott"
+    "nome": "Nouakchott",
+    "end": null
    }
   ],
   "fusos": [
@@ -7254,7 +7423,8 @@
   "capital": [
    {
     "qid": "Q23800",
-    "nome": "Valeta"
+    "nome": "Valeta",
+    "end": null
    }
   ],
   "fusos": [
@@ -7311,7 +7481,8 @@
   "capital": [
    {
     "qid": "Q3929",
-    "nome": "Port Louis"
+    "nome": "Port Louis",
+    "end": null
    }
   ],
   "fusos": [
@@ -7355,7 +7526,8 @@
   "capital": [
    {
     "qid": "Q9347",
-    "nome": "Malé"
+    "nome": "Malé",
+    "end": null
    }
   ],
   "fusos": [
@@ -7416,11 +7588,13 @@
   "capital": [
    {
     "qid": "Q3876",
-    "nome": "Lilongué"
+    "nome": "Lilongué",
+    "end": null
    },
    {
     "qid": "Q219117",
-    "nome": "Zomba"
+    "nome": "Zomba",
+    "end": "+1975-01-01T00:00:00Z"
    }
   ],
   "fusos": [
@@ -7474,7 +7648,8 @@
   "capital": [
    {
     "qid": "Q1489",
-    "nome": "Cidade do México"
+    "nome": "Cidade do México",
+    "end": null
    }
   ],
   "fusos": [
@@ -7526,11 +7701,13 @@
   "capital": [
    {
     "qid": "Q1865",
-    "nome": "Kuala Lumpur"
+    "nome": "Kuala Lumpur",
+    "end": null
    },
    {
     "qid": "Q182378",
-    "nome": "Putrajaya"
+    "nome": "Putrajaya",
+    "end": null
    }
   ],
   "fusos": [
@@ -7581,7 +7758,8 @@
   "capital": [
    {
     "qid": "Q3889",
-    "nome": "Maputo"
+    "nome": "Maputo",
+    "end": null
    }
   ],
   "fusos": [
@@ -7632,7 +7810,8 @@
   "capital": [
    {
     "qid": "Q3935",
-    "nome": "Windhoek"
+    "nome": "Windhoek",
+    "end": null
    }
   ],
   "fusos": [
@@ -7676,7 +7855,8 @@
   "capital": [
    {
     "qid": "Q3674",
-    "nome": "Niamey"
+    "nome": "Niamey",
+    "end": null
    }
   ],
   "fusos": [
@@ -7720,11 +7900,13 @@
   "capital": [
    {
     "qid": "Q3787",
-    "nome": "Abuja"
+    "nome": "Abuja",
+    "end": null
    },
    {
     "qid": "Q8673",
-    "nome": "Lagos"
+    "nome": "Lagos",
+    "end": "+1991-12-12T00:00:00Z"
    }
   ],
   "fusos": [
@@ -7779,7 +7961,8 @@
   "capital": [
    {
     "qid": "Q3274",
-    "nome": "Managua"
+    "nome": "Managua",
+    "end": null
    }
   ],
   "fusos": [
@@ -7838,7 +8021,8 @@
   "capital": [
    {
     "qid": "Q585",
-    "nome": "Oslo"
+    "nome": "Oslo",
+    "end": null
    }
   ],
   "fusos": [
@@ -7895,7 +8079,8 @@
   "capital": [
    {
     "qid": "Q3037",
-    "nome": "Catmandu"
+    "nome": "Catmandu",
+    "end": null
    }
   ],
   "fusos": [
@@ -7948,7 +8133,8 @@
   "capital": [
    {
     "qid": "Q31026",
-    "nome": "Yaren"
+    "nome": "Yaren",
+    "end": null
    }
   ],
   "fusos": [
@@ -8010,15 +8196,18 @@
   "capital": [
    {
     "qid": "Q23661",
-    "nome": "Wellington"
+    "nome": "Wellington",
+    "end": null
    },
    {
     "qid": "Q37100",
-    "nome": "Auckland"
+    "nome": "Auckland",
+    "end": "+1865-00-00T00:00:00Z"
    },
    {
     "qid": "Q7081990",
-    "nome": "Okiato"
+    "nome": "Okiato",
+    "end": "+1841-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -8102,7 +8291,8 @@
   "capital": [
    {
     "qid": "Q3826",
-    "nome": "Mascate"
+    "nome": "Mascate",
+    "end": null
    }
   ],
   "fusos": [
@@ -8153,7 +8343,8 @@
   "capital": [
    {
     "qid": "Q3306",
-    "nome": "Cidade do Panamá"
+    "nome": "Cidade do Panamá",
+    "end": null
    }
   ],
   "fusos": [
@@ -8216,7 +8407,8 @@
   "capital": [
    {
     "qid": "Q2868",
-    "nome": "Lima"
+    "nome": "Lima",
+    "end": null
    }
   ],
   "fusos": [
@@ -8279,7 +8471,8 @@
   "capital": [
    {
     "qid": "Q36526",
-    "nome": "Port Moresby"
+    "nome": "Port Moresby",
+    "end": null
    }
   ],
   "fusos": [
@@ -8338,7 +8531,8 @@
   "capital": [
    {
     "qid": "Q1461",
-    "nome": "Manila"
+    "nome": "Manila",
+    "end": null
    }
   ],
   "fusos": [
@@ -8387,11 +8581,13 @@
   "capital": [
    {
     "qid": "Q1362",
-    "nome": "Islamabad"
+    "nome": "Islamabad",
+    "end": null
    },
    {
     "qid": "Q93230",
-    "nome": "Rawalpindi"
+    "nome": "Rawalpindi",
+    "end": null
    }
   ],
   "fusos": [
@@ -8457,15 +8653,18 @@
   "capital": [
    {
     "qid": "Q270",
-    "nome": "Varsóvia"
+    "nome": "Varsóvia",
+    "end": null
    },
    {
     "qid": "Q51432",
-    "nome": "Gniezno"
+    "nome": "Gniezno",
+    "end": "+1038-00-00T00:00:00Z"
    },
    {
     "qid": "Q31487",
-    "nome": "Cracóvia"
+    "nome": "Cracóvia",
+    "end": "+1795-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -8531,15 +8730,18 @@
   "capital": [
    {
     "qid": "Q212938",
-    "nome": "Jerusalém Oriental"
+    "nome": "Jerusalém Oriental",
+    "end": null
    },
    {
     "qid": "Q158119",
-    "nome": "Ramallah"
+    "nome": "Ramallah",
+    "end": null
    },
    {
     "qid": "Q1218",
-    "nome": "Jerusalém"
+    "nome": "Jerusalém",
+    "end": null
    }
   ],
   "fusos": [
@@ -8599,11 +8801,13 @@
   "capital": [
    {
     "qid": "Q597",
-    "nome": "Lisboa"
+    "nome": "Lisboa",
+    "end": null
    },
    {
     "qid": "Q45412",
-    "nome": "Coimbra"
+    "nome": "Coimbra",
+    "end": "+1255-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -8669,11 +8873,13 @@
   "capital": [
    {
     "qid": "Q515229",
-    "nome": "Ngerulmud"
+    "nome": "Ngerulmud",
+    "end": null
    },
    {
     "qid": "Q527748",
-    "nome": "Koror"
+    "nome": "Koror",
+    "end": "+2006-10-06T00:00:00Z"
    }
   ],
   "fusos": [
@@ -8737,7 +8943,8 @@
   "capital": [
    {
     "qid": "Q2933",
-    "nome": "Assunção"
+    "nome": "Assunção",
+    "end": null
    }
   ],
   "fusos": [
@@ -8799,7 +9006,8 @@
   "capital": [
    {
     "qid": "Q3861",
-    "nome": "Doha"
+    "nome": "Doha",
+    "end": null
    }
   ],
   "fusos": [
@@ -8843,7 +9051,8 @@
   "capital": [
    {
     "qid": "Q19660",
-    "nome": "Bucareste"
+    "nome": "Bucareste",
+    "end": null
    }
   ],
   "fusos": [
@@ -8899,7 +9108,8 @@
   "capital": [
    {
     "qid": "Q3711",
-    "nome": "Belgrado"
+    "nome": "Belgrado",
+    "end": null
    }
   ],
   "fusos": [
@@ -9138,11 +9348,13 @@
   "capital": [
    {
     "qid": "Q649",
-    "nome": "Moscovo"
+    "nome": "Moscovo",
+    "end": null
    },
    {
     "qid": "Q656",
-    "nome": "São Petersburgo"
+    "nome": "São Petersburgo",
+    "end": "+1918-03-11T00:00:00Z"
    }
   ],
   "fusos": [
@@ -9262,7 +9474,8 @@
   "capital": [
    {
     "qid": "Q3859",
-    "nome": "Quigali"
+    "nome": "Quigali",
+    "end": null
    }
   ],
   "fusos": [
@@ -9306,11 +9519,13 @@
   "capital": [
    {
     "qid": "Q3692",
-    "nome": "Riade"
+    "nome": "Riade",
+    "end": null
    },
    {
     "qid": "Q277505",
-    "nome": "Al-Diriyah"
+    "nome": "Al-Diriyah",
+    "end": "+1818-00-00T00:00:00Z"
    }
   ],
   "fusos": [
@@ -9361,7 +9576,8 @@
   "capital": [
    {
     "qid": "Q40921",
-    "nome": "Honiara"
+    "nome": "Honiara",
+    "end": null
    }
   ],
   "fusos": [
@@ -9416,7 +9632,8 @@
   "capital": [
    {
     "qid": "Q3940",
-    "nome": "Victoria"
+    "nome": "Victoria",
+    "end": null
    }
   ],
   "fusos": [
@@ -9472,7 +9689,8 @@
   "capital": [
    {
     "qid": "Q1963",
-    "nome": "Cartum"
+    "nome": "Cartum",
+    "end": null
    }
   ],
   "fusos": [
@@ -9545,7 +9763,8 @@
   "capital": [
    {
     "qid": "Q1754",
-    "nome": "Estocolmo"
+    "nome": "Estocolmo",
+    "end": null
    }
   ],
   "fusos": [
@@ -9612,7 +9831,8 @@
   "capital": [
    {
     "qid": "Q334",
-    "nome": null
+    "nome": null,
+    "end": null
    }
   ],
   "fusos": [
@@ -9677,7 +9897,8 @@
   "capital": [
    {
     "qid": "Q437",
-    "nome": "Liubliana"
+    "nome": "Liubliana",
+    "end": null
    }
   ],
   "fusos": [
@@ -9736,7 +9957,8 @@
   "capital": [
    {
     "qid": "Q1780",
-    "nome": "Bratislava"
+    "nome": "Bratislava",
+    "end": null
    }
   ],
   "fusos": [
@@ -9793,7 +10015,8 @@
   "capital": [
    {
     "qid": "Q3780",
-    "nome": "Freetown"
+    "nome": "Freetown",
+    "end": null
    }
   ],
   "fusos": [
@@ -9845,7 +10068,8 @@
   "capital": [
    {
     "qid": "Q1848",
-    "nome": "San Marino"
+    "nome": "San Marino",
+    "end": null
    }
   ],
   "fusos": [
@@ -9904,7 +10128,8 @@
   "capital": [
    {
     "qid": "Q3718",
-    "nome": "Dacar"
+    "nome": "Dacar",
+    "end": null
    }
   ],
   "fusos": [
@@ -9965,7 +10190,8 @@
   "capital": [
    {
     "qid": "Q168652",
-    "nome": "JHHargeisa"
+    "nome": "JHHargeisa",
+    "end": null
    }
   ],
   "fusos": [
@@ -10012,7 +10238,8 @@
   "capital": [
    {
     "qid": "Q3001",
-    "nome": "Paramaribo"
+    "nome": "Paramaribo",
+    "end": null
    }
   ],
   "fusos": [
@@ -10063,7 +10290,8 @@
   "capital": [
    {
     "qid": "Q1947",
-    "nome": "Juba"
+    "nome": "Juba",
+    "end": null
    }
   ],
   "fusos": [
@@ -10107,7 +10335,8 @@
   "capital": [
    {
     "qid": "Q3932",
-    "nome": "São Tomé"
+    "nome": "São Tomé",
+    "end": null
    }
   ],
   "fusos": [
@@ -10172,7 +10401,8 @@
   "capital": [
    {
     "qid": "Q3110",
-    "nome": "San Salvador"
+    "nome": "San Salvador",
+    "end": null
    }
   ],
   "fusos": [
@@ -10216,7 +10446,8 @@
   "capital": [
    {
     "qid": "Q3766",
-    "nome": "Damasco"
+    "nome": "Damasco",
+    "end": null
    }
   ],
   "fusos": [
@@ -10265,11 +10496,13 @@
   "capital": [
    {
     "qid": "Q101418",
-    "nome": "Lobamba"
+    "nome": "Lobamba",
+    "end": null
    },
    {
     "qid": "Q3904",
-    "nome": "Mebabane"
+    "nome": "Mebabane",
+    "end": null
    }
   ],
   "fusos": [
@@ -10322,7 +10555,8 @@
   "capital": [
    {
     "qid": "Q3659",
-    "nome": "Jamena"
+    "nome": "Jamena",
+    "end": null
    }
   ],
   "fusos": [
@@ -10366,7 +10600,8 @@
   "capital": [
    {
     "qid": "Q3792",
-    "nome": "Lomé"
+    "nome": "Lomé",
+    "end": null
    }
   ],
   "fusos": [
@@ -10410,7 +10645,8 @@
   "capital": [
    {
     "qid": "Q1861",
-    "nome": "Banguecoque"
+    "nome": "Banguecoque",
+    "end": null
    }
   ],
   "fusos": [
@@ -10466,7 +10702,8 @@
   "capital": [
    {
     "qid": "Q9365",
-    "nome": "Duchambe"
+    "nome": "Duchambe",
+    "end": null
    }
   ],
   "fusos": [
@@ -10522,7 +10759,8 @@
   "capital": [
    {
     "qid": "Q9310",
-    "nome": "Díli"
+    "nome": "Díli",
+    "end": null
    }
   ],
   "fusos": [
@@ -10566,7 +10804,8 @@
   "capital": [
    {
     "qid": "Q23438",
-    "nome": "Asgabate"
+    "nome": "Asgabate",
+    "end": null
    }
   ],
   "fusos": [
@@ -10610,7 +10849,8 @@
   "capital": [
    {
     "qid": "Q3572",
-    "nome": "Tunes"
+    "nome": "Tunes",
+    "end": null
    }
   ],
   "fusos": [
@@ -10667,7 +10907,8 @@
   "capital": [
    {
     "qid": "Q38834",
-    "nome": "Nuku'alofa"
+    "nome": "Nuku'alofa",
+    "end": null
    }
   ],
   "fusos": [
@@ -10720,7 +10961,8 @@
   "capital": [
    {
     "qid": "Q3640",
-    "nome": "Ancara"
+    "nome": "Ancara",
+    "end": null
    }
   ],
   "fusos": [
@@ -10776,7 +11018,8 @@
   "capital": [
    {
     "qid": "Q39178",
-    "nome": "Port of Spain"
+    "nome": "Port of Spain",
+    "end": null
    }
   ],
   "fusos": [
@@ -10832,7 +11075,8 @@
   "capital": [
    {
     "qid": "Q34126",
-    "nome": "Funafuti"
+    "nome": "Funafuti",
+    "end": null
    }
   ],
   "fusos": [
@@ -11017,43 +11261,53 @@
   "capital": [
    {
     "qid": "Q1867",
-    "nome": "Taipé"
+    "nome": "Taipé",
+    "end": null
    },
    {
     "qid": "Q46452338",
-    "nome": "Kuang-chou"
+    "nome": "Kuang-chou",
+    "end": "+1949-10-13T00:00:00Z"
    },
    {
     "qid": "Q46451169",
-    "nome": "Ch'ung-ch'ing"
+    "nome": "Ch'ung-ch'ing",
+    "end": "+1949-11-29T00:00:00Z"
    },
    {
     "qid": "Q10906766",
-    "nome": "Nanquim"
+    "nome": "Nanquim",
+    "end": "+1949-01-16T00:00:00Z"
    },
    {
     "qid": "Q30002",
-    "nome": "Chengdu"
+    "nome": "Chengdu",
+    "end": "+1949-12-07T00:00:00Z"
    },
    {
     "qid": "Q10906766",
-    "nome": "Nanquim"
+    "nome": "Nanquim",
+    "end": "+1937-11-21T00:00:00Z"
    },
    {
     "qid": "Q4164068",
-    "nome": "Jingzhao"
+    "nome": "Jingzhao",
+    "end": "+1928-06-00T00:00:00Z"
    },
    {
     "qid": "Q46451169",
-    "nome": "Ch'ung-ch'ing"
+    "nome": "Ch'ung-ch'ing",
+    "end": "+1949-11-29T00:00:00Z"
    },
    {
     "qid": "Q24841127",
-    "nome": "Nanjing Fu"
+    "nome": "Nanjing Fu",
+    "end": "+1912-04-02T00:00:00Z"
    },
    {
     "qid": "Q7334692",
-    "nome": "Shuntian Fu"
+    "nome": "Shuntian Fu",
+    "end": "+1914-10-04T00:00:00Z"
    }
   ],
   "fusos": [
@@ -11106,11 +11360,13 @@
   "capital": [
    {
     "qid": "Q3866",
-    "nome": "Dodoma"
+    "nome": "Dodoma",
+    "end": null
    },
    {
     "qid": "Q1960",
-    "nome": "Dar es Salaam"
+    "nome": "Dar es Salaam",
+    "end": "+1996-02-01T00:00:00Z"
    }
   ],
   "fusos": [
@@ -11172,7 +11428,8 @@
   "capital": [
    {
     "qid": "Q1899",
-    "nome": "Kiev"
+    "nome": "Kiev",
+    "end": null
    }
   ],
   "fusos": [
@@ -11229,7 +11486,8 @@
   "capital": [
    {
     "qid": "Q3894",
-    "nome": "Campala"
+    "nome": "Campala",
+    "end": null
    }
   ],
   "fusos": [
@@ -11298,15 +11556,18 @@
   "capital": [
    {
     "qid": "Q61",
-    "nome": "Washington, D.C."
+    "nome": "Washington, D.C.",
+    "end": null
    },
    {
     "qid": "Q1345",
-    "nome": "Filadélfia"
+    "nome": "Filadélfia",
+    "end": "+1800-05-14T00:00:00Z"
    },
    {
     "qid": "Q60",
-    "nome": "Nova Iorque"
+    "nome": "Nova Iorque",
+    "end": "+1790-12-05T00:00:00Z"
    }
   ],
   "fusos": [
@@ -11409,7 +11670,8 @@
   "capital": [
    {
     "qid": "Q1335",
-    "nome": "Montevidéu"
+    "nome": "Montevidéu",
+    "end": null
    }
   ],
   "fusos": [
@@ -11464,7 +11726,8 @@
   "capital": [
    {
     "qid": "Q269",
-    "nome": "Tasquente"
+    "nome": "Tasquente",
+    "end": null
    }
   ],
   "fusos": [
@@ -11512,7 +11775,8 @@
   "capital": [
    {
     "qid": "Q41474",
-    "nome": "Kingstown"
+    "nome": "Kingstown",
+    "end": null
    }
   ],
   "fusos": [
@@ -11575,7 +11839,8 @@
   "capital": [
    {
     "qid": "Q1533",
-    "nome": "Caracas"
+    "nome": "Caracas",
+    "end": null
    }
   ],
   "fusos": [
@@ -11619,7 +11884,8 @@
   "capital": [
    {
     "qid": "Q1858",
-    "nome": "Hanói"
+    "nome": "Hanói",
+    "end": null
    }
   ],
   "fusos": [
@@ -11673,7 +11939,8 @@
   "capital": [
    {
     "qid": "Q37806",
-    "nome": "Porto Vila"
+    "nome": "Porto Vila",
+    "end": null
    }
   ],
   "fusos": [
@@ -11729,7 +11996,8 @@
   "capital": [
    {
     "qid": "Q36260",
-    "nome": "Apia"
+    "nome": "Apia",
+    "end": null
    }
   ],
   "fusos": [
@@ -11774,11 +12042,13 @@
   "capital": [
    {
     "qid": "Q2471",
-    "nome": "Sana"
+    "nome": "Sana",
+    "end": null
    },
    {
     "qid": "Q131694",
-    "nome": "Áden"
+    "nome": "Áden",
+    "end": null
    }
   ],
   "fusos": [
@@ -11878,15 +12148,18 @@
   "capital": [
    {
     "qid": "Q3926",
-    "nome": "Pretória"
+    "nome": "Pretória",
+    "end": null
    },
    {
     "qid": "Q37701",
-    "nome": "Bloemfontein"
+    "nome": "Bloemfontein",
+    "end": null
    },
    {
     "qid": "Q5465",
-    "nome": "Cidade do Cabo"
+    "nome": "Cidade do Cabo",
+    "end": null
    }
   ],
   "fusos": [
@@ -11948,7 +12221,8 @@
   "capital": [
    {
     "qid": "Q3881",
-    "nome": "Lusaca"
+    "nome": "Lusaca",
+    "end": null
    }
   ],
   "fusos": [
@@ -12130,7 +12404,8 @@
   "capital": [
    {
     "qid": "Q3921",
-    "nome": "Harare"
+    "nome": "Harare",
+    "end": null
    }
   ],
   "fusos": [
