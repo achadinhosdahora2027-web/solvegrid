@@ -23,7 +23,7 @@ LOG = Path("/home/user/cloudfire/work") / "logs" / "etapa819_sparql.log"
 UA = {"User-Agent": "etapa819/1.0 (project contact)", "Accept": "application/sparql-results+json"}
 DELAY = float(sys.argv[2]) if len(sys.argv) > 2 and sys.argv[1] == "--delay" else 65.0
 CHUNK = 90
-RAMOS = {"Q2385804": "educacional", "Q4830453": "empresarial"}
+RAMOS = {"Q2385804": "educacional", "Q9842": "escolas", "Q3918": "universidades", "Q4830453": "empresarial"}
 
 
 def log(m):
@@ -86,24 +86,26 @@ def main():
         chunk = uniq[i:i + CHUNK]
         vals = " ".join("wd:" + q for q, _ in chunk)
         by_city = {}
-        for ramo, tipo in RAMOS.items():
-            query = f"""SELECT ?city ?item ?itemLabel WHERE {{
-              VALUES ?city {{ {vals} }}
-              ?item wdt:P131 ?city ; wdt:P31/wdt:P279* wd:{ramo} .
-              SERVICE wikibase:label {{ bd:serviceParam wikibase:language "pt,en". }}
-            }} LIMIT 4000"""
-            rows = sparql(query)
-            if rows is None:
-                log(f"  WARN: ramo {tipo} do lote {i//CHUNK + 1} falhou após retries")
+        query = f"""SELECT ?city ?item ?itemLabel ?classe WHERE {{
+          VALUES ?city {{ {vals} }}
+          VALUES ?classe {{ wd:Q2385804 wd:Q9842 wd:Q3918 wd:Q4830453 }}
+          ?item wdt:P131 ?city ; wdt:P31 ?classe .
+          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "pt,en". }}
+        }} LIMIT 5000"""
+        rows = sparql(query)
+        if rows is None:
+            log(f"  WARN: lote {i//CHUNK + 1} falhou após retries")
+            continue
+        for b in rows:
+            q = b["city"]["value"].split("/")[-1]
+            item = b["item"]["value"].split("/")[-1]
+            name = b.get("itemLabel", {}).get("value", item)
+            classe = b.get("classe", {}).get("value", "").split("/")[-1]
+            tipo = {"Q2385804": "educacional", "Q9842": "escolas",
+                    "Q3918": "universidades", "Q4830453": "empresarial"}.get(classe, "educacional")
+            if not name or name.startswith("Q") or name == item:
                 continue
-            for b in rows:
-                q = b["city"]["value"].split("/")[-1]
-                item = b["item"]["value"].split("/")[-1]
-                name = b.get("itemLabel", {}).get("value", item)
-                if not name or name.startswith("Q") or name == item:
-                    continue
-                by_city.setdefault(q, []).append({"qid": item, "nome": name, "ramo": tipo})
-            log(f"  {tipo}: lote {i//CHUNK + 1}/{(len(uniq) + CHUNK - 1)//CHUNK}: {len(rows)} rows")
+            by_city.setdefault(q, []).append({"qid": item, "nome": name, "ramo": tipo})
         for q, ks in chunk:
             rec = {"qid": q, "keys": ks, "itens": by_city.get(q, [])}
             with open(OUT, "a", encoding="utf-8") as f:
