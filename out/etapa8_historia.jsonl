@@ -1,0 +1,90 @@
+{"qid": "Q1863", "keys": ["ad/andorra-a-velha"], "inicio": 900, "populacao": {"valor": 24042, "data": "2023"}, "capital_de": ["Andorra", "Andorra-a-Velha"]}
+{"qid": "Q24554", "keys": ["ad/arinsal"]}
+{"qid": "Q24260", "keys": ["ad/canillo"], "populacao": {"valor": 5781, "data": "2023"}}
+{"qid": "Q24269", "keys": ["ad/encamp"], "populacao": {"valor": 12826, "data": "2023"}}
+{"qid": "Q24286", "keys": ["ad/escaldes-engordany"], "populacao": {"valor": 15506, "data": "2023"}}
+{"qid": "Q24276", "keys": ["ad/la-massana"], "populacao": {"valor": 11591, "data": "2023"}}
+{"qid": "Q1050185", "keys": ["ad/les-escaldes"], "inicio": 1978, "capital_de": ["Escaldes-Engordany"]}
+{"qid": "Q24456", "keys": ["ad/pas-de-la-casa"], "populacao": {"valor": 1927, "data": "2022"}}
+{"qid": "Q24398", "keys": ["ad/soldeu"], "populacao": {"valor": 622, "data": "2022"}}
+{"qid": "Q1519", "keys": ["ae/abu-dhabi"], "populacao": {"valor": 1570000, "data": "2023"}, "capital_de": ["Emirados Árabes Unidos", "Emirado Abu Dhabi"]}
+{"qid": "Q159477", "keys": ["ae/ajman"], "inicio": 1971, "populacao": {"valor": 504836, "data": "2017"}}
+{"qid": "Q234600", "keys": ["ae/al-ain"], "populacao": {"valor": 766936, "data": "2017"}}
+{"qid": "Q612", "keys": ["ae/dubai"], "inicio": 1833, "populacao": {"valor": 3944751, "data": "2025"}, "capital_de": ["Emirate of Dubai"]}
+{"qid": "Q4091", "keys": ["ae/fujairah"], "inicio": 1953, "populacao": {"valor": 256256, "data": "2019"}}
+{"qid": "Q170024", "keys": ["ae/ras-al-khaimah"], "inicio": 1869, "populacao": {"valor": 241000, "data": "2009"}}
+{"qid": "Q289693", "keys": ["ae/sharjah"], "inicio": 1793, "populacao": {"valor": 1247749, "data": "2015"}, "capital_de": ["Emirado de Xarja"]}
+{"qid": "Q5838", "keys": ["af/cabul"], "inicio": 1200, "populacao": {"valor": 5333284, "data": "2025"}, "capital_de": ["Afeganistão", "Cabul", "Cabul (distrito)"]}
+{"qid": "Q45313", "keys": ["af/herat"], "populacao": {"valor": 556205, "data": "2020"}, "capital_de": ["Herat", "Dinastia Timúrida", "Kartids", "Herat (1793-1863)"]}
+{"qid": "Q183303", "keys": ["af/jalalabad"], "populacao": {"valor": 263312, "data": "2020"}, "capital_de": ["Nangarhar", "Jalalabad"]}
+{"qid": "Q45604", "keys": ["af/kandahar"], "populacao": {"valor": 614254, "data": "2020"}, "capital_de": ["Kandahar", "Emirado Islâmico do Afeganistão", "Império Durrani", "Império Hotaki", "Principality of Qandahar"]}
+{"qid": "Q108155", "keys": ["af/kunduz"], "populacao": {"valor": 356536, "data": "2020"}, "capital_de": ["Império Heftalita", "Konduz", "Kunduz District"]}
+{"qid": "Q130469", "keys": ["af/mazar-i-sharif"], "populacao": {"valor": 469247, "data": "2020"}, "capital_de": ["Balque", "Mazar-i-Sharif District"]}
+{"qid": "Q477148", "keys": ["af/puli-khumri"], "populacao": {"valor": 113500, "data": "2017"}, "capital_de": ["Baghlan"]}
+{"qid": "Q838954", "keys": ["af/sheberghan"], "populacao": {"valor": 175599, "data": "2015"}, "capital_de": ["Jowzjan", "Shibirghan District"]}
+{"qid": "Q477238", "keys": ["af/taloqan"], "populacao": {"valor": 258758, "data": "2020"}, "capital_de": ["Takhar", "Taluqan"]}
+{"qid": "Q475802", "keys": ["af/zaranj"], "capital_de": ["Império Safárida", "Nimruz"]}
+{"qid": "Q1771701", "keys": ["ag/bolans"], "capital_de": ["Saint Mary"]}
+{"qid": "Q5273629", "keys": ["ag/dickenson-bay"]}
+{"qid": "Q1014363", "keys": ["ag/english-harbour"]}
+{"qid": "Q6270089", "keys": ["ag/jolly-harbour"]}
+{"qid": "Q36262", "keys": ["ag/saint-john-s"], "inicio": 1666, "populacao": {"valor": 21394, "data": "2025"}, "capital_de": ["Antígua e Barbuda", "São João", "Ilhas de Sotavento Britânicas", "Antigua-Barbuda-Montserrat"]}
+{"qid": "Q170244", "keys": ["al/berat"], "inicio": -313, "populacao": {"valor": 40665, "data": "2023"}, "capital_de": ["Berat", "Berat Municipality"]}
+{"qid": "Q83285", "keys": ["al/durres"], "populacao": {"valor": 101728, "data": "2023"}, "capital_de": ["Durrës", "Principado da Albânia", "Reino da Albânia (Idade Média)"]}
+{"qid": "Q114257", "keys": ["al/elbasan"], "populacao": {"valor": 66834, "data": "2023"}, "capital_de": ["Elbasan", "Elbasan municipality"]}
+{"qid": "Q173690", "keys": ["al/gjirokaster"], "populacao": {"valor": 16569, "data": "2023"}, "capital_de": ["Gjirokastër"]}
+{"qid": "Q622764", "keys": ["al/himare"], "populacao": {"valor": 4596, "data": "2012"}, "capital_de": ["Himarë municipality"]}
+{"qid": "Q194164", "keys": ["al/kruje"], "populacao": {"valor": 11721, "data": "2011"}, "capital_de": ["Krujë Municipality"]}
+{"qid": "Q1790776", "keys": ["al/ksamil"], "populacao": {"valor": 2731, "data": "2023"}}
+{"qid": "Q193226", "keys": ["al/sarande"], "populacao": {"valor": 22613, "data": "2023"}, "capital_de": ["Sarandë municipality"]}
+{"qid": "Q131638", "keys": ["al/shkoder"], "populacao": {"valor": 61633, "data": "2023"}, "capital_de": ["Shkodër", "Scutari vilayet", "Shkodër municipality"]}
+{"qid": "Q19689", "keys": ["al/tirana"], "inicio": 1614, "populacao": {"valor": 389323, "data": "2023"}, "capital_de": ["Albânia", "Principado da Albânia", "Tirana", "República Popular Socialista da Albânia", "Reino da Albânia"]}
+{"qid": "Q159610", "keys": ["al/vlore"], "populacao": {"valor": 66320, "data": "2023"}, "capital_de": ["Vlorë", "Vlorë municipality"]}
+{"qid": "Q39569", "keys": ["am/dilijan"], "populacao": {"valor": 16600, "data": "2016"}}
+{"qid": "Q319735", "keys": ["am/goris"], "inicio": 1870, "populacao": {"valor": 17600, "data": "2025"}, "capital_de": ["Goris rayon", "Zangezursky Uyezd", "Goris Municipality"]}
+{"qid": "Q199500", "keys": ["am/gyumri"], "populacao": {"valor": 121976, "data": "2011"}, "capital_de": ["Shirak"]}
+{"qid": "Q39556", "keys": ["am/jermuk"], "populacao": {"valor": 4070, "data": "2021"}, "capital_de": ["Jermuk Municipality"]}
+{"qid": "Q39625", "keys": ["am/sevan"], "inicio": 1842, "populacao": {"valor": 19229, "data": "2011"}, "capital_de": ["Sevan Municipality"]}
+{"qid": "Q140342", "keys": ["am/tsaghkadzor"], "populacao": {"valor": 1200, "data": "2015"}, "capital_de": ["Tsaghkadzor Municipality"]}
+{"qid": "Q62337", "keys": ["am/vanadzor"], "populacao": {"valor": 90525, "data": "2017"}, "capital_de": ["Lorri", "Vanadzor Municipality"]}
+{"qid": "Q1953", "keys": ["am/yerevan"], "inicio": -781, "populacao": {"valor": 1106300, "data": "2024"}, "capital_de": ["Arménia", "Gubernia de Erevã", "República Socialista Soviética da Arménia", "República Democrática da Arménia", "Armenian Oblast"]}
+{"qid": "Q214248", "keys": ["ao/benguela"], "inicio": 1617, "populacao": {"valor": 561775, "data": "2014"}, "capital_de": ["Província de Benguela"]}
+{"qid": "Q168787", "keys": ["ao/cabinda"], "inicio": 1975, "populacao": {"valor": 903370, "data": "2024"}}
+{"qid": "Q1005770", "keys": ["ao/cacuaco"], "populacao": {"valor": 1025859, "data": "2024"}}
+{"qid": "Q207322", "keys": ["ao/huambo"], "inicio": 1912, "populacao": {"valor": 844000, "data": "2019"}, "capital_de": ["Província do Huambo"]}
+{"qid": "Q223914", "keys": ["ao/lobito"], "inicio": 1843, "populacao": {"valor": 436467, "data": "2018"}}
+{"qid": "Q3897", "keys": ["ao/luanda"], "inicio": 1575, "populacao": {"valor": 2487444, "data": "2018"}, "capital_de": ["Angola"]}
+{"qid": "Q122044", "keys": ["ao/lubango"], "inicio": 1885, "populacao": {"valor": 903564, "data": "2019"}, "capital_de": ["Huíla"]}
+{"qid": "Q219072", "keys": ["ao/malanje"], "populacao": {"valor": 1298250, "data": "2024"}}
+{"qid": "Q221914", "keys": ["ao/namibe"], "inicio": 1840, "populacao": {"valor": 255000, "data": "2014"}, "capital_de": ["Namibe"]}
+{"qid": "Q635017", "keys": ["ao/saurimo"], "inicio": 1956, "populacao": {"valor": 393000, "data": "2014"}, "capital_de": ["Lunda Sul"]}
+{"qid": "Q1015108", "keys": ["ao/soyo"], "populacao": {"valor": 200920, "data": "2014"}}
+{"qid": "Q2304294", "keys": ["ao/viana"], "populacao": {"valor": 865863, "data": "2024"}}
+{"qid": "Q54108", "keys": ["ar/bahia-blanca"], "inicio": 1828, "populacao": {"valor": 299000, "data": "2019"}, "capital_de": ["Bahía Blanca (partido)"]}
+{"qid": "Q47772", "keys": ["ar/bariloche"], "inicio": 1902, "populacao": {"valor": 136381, "data": "2022"}, "capital_de": ["Bariloche (departamento)"]}
+{"qid": "Q1486", "keys": ["ar/buenos-aires"], "inicio": 1580, "populacao": {"valor": 3121707, "data": "2022"}, "capital_de": ["Argentina", "Vice-Reino do Rio da Prata", "Províncias Unidas do Rio da Prata"]}
+{"qid": "Q44210", "keys": ["ar/cordoba"], "inicio": 1573, "populacao": {"valor": 1505250, "data": "2022"}, "capital_de": ["Córdova"]}
+{"qid": "Q44211", "keys": ["ar/corrientes"], "inicio": 1588, "populacao": {"valor": 430170, "data": "2022"}, "capital_de": ["Corrientes"]}
+{"qid": "Q81561", "keys": ["ar/el-calafate"], "inicio": 1927, "populacao": {"valor": 22844, "data": "2022"}, "capital_de": ["Lago Argentino (departamento)"]}
+{"qid": "Q36332", "keys": ["ar/iguazu"]}
+{"qid": "Q44059", "keys": ["ar/la-plata"], "inicio": 1882, "populacao": {"valor": 220184, "data": "2022"}, "capital_de": ["Buenos Aires", "La Plata"]}
+{"qid": "Q52607", "keys": ["ar/mar-del-plata"], "inicio": 1874, "populacao": {"valor": 593337, "data": "2010"}, "capital_de": ["General Pueyrredón"]}
+{"qid": "Q44237", "keys": ["ar/mendoza"], "inicio": 1561, "populacao": {"valor": 127160, "data": "2022"}, "capital_de": ["Mendoza"]}
+{"qid": "Q44239", "keys": ["ar/neuquen"], "inicio": 1904, "populacao": {"valor": 288896, "data": "2022"}, "capital_de": ["Neuquén", "Confluencia"]}
+{"qid": "Q44238", "keys": ["ar/posadas"], "inicio": 1870, "populacao": {"valor": 328879, "data": "2022"}, "capital_de": ["Misiones"]}
+{"qid": "Q44206", "keys": ["ar/resistencia"], "inicio": 1878, "populacao": {"valor": 298611, "data": "2022"}, "capital_de": ["Chaco"]}
+{"qid": "Q52535", "keys": ["ar/rosario"], "inicio": 1852, "populacao": {"valor": 1037710, "data": "2022"}, "capital_de": ["Rosario (departamento)"]}
+{"qid": "Q36307", "keys": ["ar/salta"], "inicio": 1582, "populacao": {"valor": 594772, "data": "2022"}, "capital_de": ["Salta"]}
+{"qid": "Q44241", "keys": ["ar/san-juan"], "inicio": 1562, "populacao": {"valor": 471389, "data": "2010"}, "capital_de": ["San Juan"]}
+{"qid": "Q1019152", "keys": ["ar/san-martin-de-los-andes"], "inicio": 1898, "populacao": {"valor": 36913, "data": "2022"}, "capital_de": ["Lácar"]}
+{"qid": "Q44255", "keys": ["ar/san-miguel-de-tucuman"], "inicio": 1565, "populacao": {"valor": 601888, "data": "2022"}, "capital_de": ["Tucumã"]}
+{"qid": "Q44244", "keys": ["ar/santa-fe"], "inicio": 1573, "populacao": {"valor": 408572, "data": "2022"}, "capital_de": ["Santa Fé"]}
+{"qid": "Q44254", "keys": ["ar/ushuaia"], "inicio": 1884, "populacao": {"valor": 82615, "data": "2022"}, "capital_de": ["Terra do Fogo, Antártica e Ilhas do Atlântico Sul"]}
+{"qid": "Q171219", "keys": ["at/dornbirn"], "populacao": {"valor": 49278, "data": "2018"}, "capital_de": ["Dornbirn"]}
+{"qid": "Q13298", "keys": ["at/graz"], "populacao": {"valor": 306971, "data": "2026"}, "capital_de": ["Estíria", "Ducado da Estíria", "Graz-Umgebung (distrito)", "Reichsgau Steiermark"]}
+{"qid": "Q131633", "keys": ["at/hallstatt"], "populacao": {"valor": 741, "data": "2026"}}
+{"qid": "Q1735", "keys": ["at/innsbruck"], "inicio": 1234, "populacao": {"valor": 132499, "data": "2025"}, "capital_de": ["Tirol", "Innsbruck-Land", "Innkreis"]}
+{"qid": "Q264665", "keys": ["at/kitzbuhel"], "populacao": {"valor": 8239, "data": "2021"}, "capital_de": ["Kitzbühel"]}
+{"qid": "Q41753", "keys": ["at/klagenfurt"], "populacao": {"valor": 101403, "data": "2020"}, "capital_de": ["Caríntia"]}
+{"qid": "Q41329", "keys": ["at/linz"], "populacao": {"valor": 211944, "data": "2024"}, "capital_de": ["Alta Áustria", "Urfahr-Umgebung", "Linz-Land", "Reichsgau Oberdonau"]}
+{"qid": "Q668214", "keys": ["at/mayrhofen"], "populacao": {"valor": 3907, "data": "2021"}}

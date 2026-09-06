@@ -91,7 +91,7 @@ def main():
               VALUES ?city {{ {vals} }}
               ?item wdt:P131 ?city ; wdt:P31/wdt:P279* wd:{ramo} .
               SERVICE wikibase:label {{ bd:serviceParam wikibase:language "pt,en". }}
-            }}"""
+            }} LIMIT 4000"""
             rows = sparql(query)
             if rows is None:
                 log(f"  WARN: ramo {tipo} do lote {i//CHUNK + 1} falhou após retries")
