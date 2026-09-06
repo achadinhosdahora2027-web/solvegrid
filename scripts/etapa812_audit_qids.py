@@ -13,7 +13,7 @@ from collections import Counter, defaultdict
 ROOT = Path(__file__).resolve().parent.parent
 PUB = ROOT / "public"
 UA = {"User-Agent": "etapa812-audit/1.0 (project contact)"}
-DELAY = 2.0
+DELAY = float(sys.argv[sys.argv.index("--delay")+1]) if "--delay" in sys.argv else 66.0
 
 GEO = ["city", "town", "village", "municipality", "commune", "capital", "borough",
        "district", "neighborhood", "suburb", "settlement", "hamlet", "metropolis",
