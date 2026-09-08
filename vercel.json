@@ -5,15 +5,25 @@
     {
       "source": "/sw.js",
       "headers": [
-        { "key": "Content-Type", "value": "application/javascript; charset=utf-8" },
-        { "key": "Service-Worker-Allowed", "value": "/" },
-        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+        {
+          "key": "Content-Type",
+          "value": "application/javascript; charset=utf-8"
+        },
+        {
+          "key": "Service-Worker-Allowed",
+          "value": "/"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        }
       ]
     }
   ],
   "rewrites": [
-    { "source": "/mundial", "destination": "/mundial.html" },
-    { "source": "/radar-mundial", "destination": "/radar-mundial.html" },
-    { "source": "/tech-pulse", "destination": "/tech-pulse.html" }
+    {
+      "source": "/yandex_bc9fba895f317c84.html",
+      "destination": "/yandex_bc9fba895f317c84"
+    }
   ]
 }
