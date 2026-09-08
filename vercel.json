@@ -19,11 +19,5 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/yandex_bc9fba895f317c84.html",
-      "destination": "/yandex_bc9fba895f317c84"
-    }
   ]
 }
